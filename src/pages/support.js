@@ -2,7 +2,7 @@ import React from 'react'
 
 function support() {
   return (
-    <div>support</div>
+    <div>Esta es la pagina de soporte</div>
   )
 }
 

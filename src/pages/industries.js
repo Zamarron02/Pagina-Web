@@ -2,7 +2,7 @@ import React from 'react'
 
 function industries() {
   return (
-    <div>industries</div>
+    <div>Esta es la pagina de industrias</div>
   )
 }
 

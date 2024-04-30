@@ -2,7 +2,7 @@ import React from 'react'
 
 function sales() {
   return (
-    <div>sales</div>
+    <div>Esta es la pagina de ventas</div>
   )
 }
 
